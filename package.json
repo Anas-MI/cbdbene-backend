@@ -57,7 +57,7 @@
     "paypal-rest-sdk": "^1.8.1",
     "sales-tax": "^2.0.7",
     "shipengine": "^0.3.1",
-    "socket.io": "^2.1.1",
+    "socket.io": "^2.4.0",
     "stripe": "^6.26.1"
   },
   "devDependencies": {
